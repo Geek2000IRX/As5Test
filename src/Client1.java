@@ -17,7 +17,7 @@ public class Client1 {
         out.println();
         task04__testTimeInParkingLot();
         out.println();
-        task05__testCar();
+        //task05__testCar();
         out.println();
         task06__testDriveInto();
         out.println();
@@ -106,7 +106,7 @@ public class Client1 {
         out.println(parkingLot.getTime());
     }
 
-    
+    /*
     private static void task05__testCar() {
         List<Car> cars = new LinkedList<>();
         cars.add(new LargeCar("10000", time3));
@@ -121,7 +121,7 @@ public class Client1 {
         cars.add(new SmallCar("91021", time5));
         for(Car car : cars) out.println(car);
     }
-
+*/
     
     private static void task06__testDriveInto() {
         parkingLot.driveInto(0, "11117", "11213", "41514");

@@ -7,6 +7,10 @@ public abstract class SmallCar extends Car {
 
     @Override
     public int calculateMoney() {
-        return 0;
+        if(this.deduction = true){
+            return 0;
+        }else {
+            return 0;
+        }
     }
 }
