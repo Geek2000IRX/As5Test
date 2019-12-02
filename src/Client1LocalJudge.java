@@ -14,7 +14,6 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author Tang Jiahao
  * @version 2.0
- * @since <pre>10/24/2019</pre>
  * Junit version 5.4.2
  * with 19 tests
  */
